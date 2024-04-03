@@ -105,6 +105,7 @@ predict(w1,w2,test)
 <H3>Output:</H3>
 
 ![image](https://github.com/jayahari10001/Ex-3-NN/assets/115681467/56330dcf-409f-427d-a19f-90fd45dacbe1)
+
 ![image](https://github.com/jayahari10001/Ex-3-NN/assets/115681467/4c0c7b4f-c609-4121-b9c0-c708be110156)
 
 <H3> Result:</H3>
